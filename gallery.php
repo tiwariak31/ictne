@@ -9,7 +9,7 @@
   <!-- For Resposive Device -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>GB PANT GOVERNMENT ENGINEERING COLLEGE</title>
+  <title>INSTITUTE OF COMPUTER TECHNOLOGY & NETWORK ENGINEERING</title>
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="56x56" href="http://www.ICTNE.edu.in/assets/images/logo_new.png">
